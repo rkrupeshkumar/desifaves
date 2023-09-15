@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+*{
+    box-sizing: border-box ;
+}
+body {
+    font-family: 'Inter';
+    height: 100vh;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-image {
+    background-image: url(“Desifaves_logo.png”);
+    }
+
+    h1 {
+        font-size: 14px;
+        line-height: 30px;
+        color: #333;
+        align-items: center;
+      }
+      a:link {
+        color: green; 
+        background-color: transparent; 
+        text-decoration: none;
+      }
+
+      hr.class-5 {
+        background-color: #fff;
+        border-top: 1px #eee;
