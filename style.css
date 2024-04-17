@@ -53,3 +53,8 @@ body {
       hr.class-5 {
         background-color: #fff;
         border-top: 1px #eee;
+h2 {
+        font-size: 14px;
+        line-height: 30px;
+        color: #333;
+      }
