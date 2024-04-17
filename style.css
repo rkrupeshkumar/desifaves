@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+*{
+    box-sizing: border-box ;
+}
+body {
+    font-family: 'Inter';
+    background: #fff;
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+    text-align: center;
+}
+.form-element {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  }
+  form button {
+    width:60%;
+    padding 20px;
+    color: White;
+    background: #EA088C;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    height: 48px;
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-image {
+    background-image: url(“Desifaves_logo.png”);
+    }
+
+    h1 {
+        font-size: 14px;
+        line-height: 30px;
+        color: #333;
+        align-items: center;
+      }
+      a:link {
+        color: #EA088C; 
+        background-color: transparent; 
+        text-decoration: none;
+      }
+
+      hr.class-5 {
+        background-color: #fff;
+        border-top: 1px #eee;
