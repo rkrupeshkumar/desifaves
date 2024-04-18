@@ -10,14 +10,13 @@ body {
     display: flex;
     margin-top: 32px;
     margin-left: 24px;
-    justify-content: center;
+    justify-content:center;
     text-align: left;
 }
 .desif {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 66%;
 }
 .form-element {
   display: flex;
@@ -25,7 +24,7 @@ body {
   margin-bottom: 20px;
   }
   form button {
-    width:500px;
+    width:60%;
     padding 16px;
     color: White;
     background: #EA088C;
