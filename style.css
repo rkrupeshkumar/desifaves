@@ -44,6 +44,10 @@ body {
         color: #333;
         align-items: center;
       }
+h2{font-size: 14px;
+line-height: 30px;
+color: #333;
+}
       a:link {
         color: #EA088C; 
         background-color: transparent; 
@@ -53,8 +57,4 @@ body {
       hr.class-5 {
         background-color: #fff;
         border-top: 1px #eee;
-h2 {
-        font-size: 14px;
-        line-height: 30px;
-        color: #333;
-      }
+}
